@@ -1,0 +1,4 @@
+{
+    "command": "dotnet restore",
+    "working_directory": "/home/kavia/workspace/code-generation/clean-architecture-crud-api-22559-22568/aspnetcore_backend"
+}
